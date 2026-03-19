@@ -187,7 +187,7 @@ flowchart LR
 # ▶️ How to Run
 
 ```bash
-git clone https://github.com/YOUR_USERNAME/YOUR_REPO.git
+git clone https://github.com/Riddhis2226/Financial-Portfolio-Optimization-System.git 
 pip install pandas numpy plotly
 jupyter notebook
 ```
